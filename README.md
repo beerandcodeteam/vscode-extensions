@@ -1,7 +1,11 @@
 IntelliJ Keybindings [Keisuke Kato]
+
 Makefile Tools [Microsoft]
+
 IntelliSense for CSS class names in HTML [Zignd]
+
 Javascript Snippets [charalampos karypidis]
+
 PHP Extension Pack [Xdebug]
 PHP Intelephense [Ben Mewburn]
 PHP Namespace Resolver [Mehedi Hassan]
